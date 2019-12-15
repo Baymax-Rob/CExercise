@@ -1,2 +1,2 @@
 # CExercise
-C language exercise 
+C language Daily's exercise 
